@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "424824217734",
+    "project_id": "khana-app-e79cb",
+    "storage_bucket": "khana-app-e79cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424824217734:android:00c1dae8577e90b46b3107",
+        "android_client_info": {
+          "package_name": "com.example.khanaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424824217734-k96ugrm6i49de9nkqo2kje59kt1cgt4v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXeiW2IGx9L04at1UPRNoAo1SvEacuZaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "424824217734-k96ugrm6i49de9nkqo2kje59kt1cgt4v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
